@@ -22,9 +22,13 @@
 
 ### 1. Song:
     node liri.js spotify-this 
+    (spotify-this.png)
 ### 2. Concert
     node liri.js concert-this
+    (concert-this.png)
 ### 3. Movie
     node liri.js movie-this
+    (movie-this.png)
 ### 4. Surprise
     node liri.js do-what-it-says
+    (do-what-it-says.png)
